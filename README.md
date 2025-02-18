@@ -1,6 +1,6 @@
 ### Hi there!
 - 👋 Hi, I’m Niraj Pandey 
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🌱 I’m currently working on (https://docsarch.com/)
 - 💞️ I’m looking to collaborate on research and development projects
 - 📫 How to reach me: nirajpandey283@gmail.com
 
